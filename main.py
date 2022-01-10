@@ -1,7 +1,6 @@
 """
 this page has now been made to be readable
 feel lucky you didn't have to read the compressed versions that came before
-please see School-work-objectives/old_programs/
 """
 
 
